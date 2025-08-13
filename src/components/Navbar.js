@@ -40,6 +40,11 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
+            <Link href="/education" className="hover:text-yellow-400 transition">
+              Education
+            </Link>
+          </li>
+          <li>
             <Link href="/contact" className="hover:text-yellow-300">
               Contact
             </Link>
