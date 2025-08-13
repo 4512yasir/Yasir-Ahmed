@@ -53,3 +53,29 @@ git clone https://github.com/YOUR_USERNAME/portfolio.git
 cd portfolio
 npm install
 npm run dev
+
+Open http://localhost:3000 in your browser.
+
+
+🌍 Deployment
+This project is deployed on Vercel:
+
+Push code to GitHub.
+
+Connect repo to Vercel.
+
+Deploy and get your live link.
+
+📬 Contact
+Email: yaskamohamed00@gmail.com
+
+Phone: +254 758 741 425
+
+GitHub: 4512yasir
+
+LinkedIn: Yasir Mohammed Ahmed
+
+
+
+
+⭐ If you like this project, consider giving it a star on GitHub!
